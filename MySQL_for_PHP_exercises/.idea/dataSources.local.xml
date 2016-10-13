@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Blog - @localhost" uuid="2cb4dc7e-f552-4d33-86bc-5c549f08bde2">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>blog.*</schema-pattern>
+      <default-schemas>blog_exercises.*</default-schemas>
+    </data-source>
+  </component>
+</project>
